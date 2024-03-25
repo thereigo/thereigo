@@ -14,7 +14,7 @@
 <h2> 📨 &nbsp;Contact Me </h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ig.pozdnakovs@gmail.com)](mailto:ig.pozdnakovs@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/thereigo)](www.linkedin.com/in/thereigo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/thereigo)](https://www.linkedin.com/in/thereigo)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
