@@ -13,8 +13,8 @@
 
 <h2> 📨 &nbsp;Contact Me </h2>
 
-<a href="(mailto:ig.pozdnakovs@gmail.com)">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="www.linkedin.com/in/thereigo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ig.pozdnakovs@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/thereigo)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
