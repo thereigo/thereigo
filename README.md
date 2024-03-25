@@ -1,42 +1,24 @@
-<h1> Hey there! 👋 &nbsp;I'm Igors.</h1>
+<h1> Hey there! 👋 &nbsp;I'm Igors. </h1>
 <h2> 🚀 &nbsp;Full-Stack Developer 🚀 &nbsp;</h2>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-🐍
-🚀
-🛠
-💻
-💣
-🧬
-🧶
-🎭
-📈
-🎓
-🌐
-🖥
-👾
-☁️
-🔥
-🤖
-💼
-🌟
-🏁
-🏅
-🏆
+- 🧬 &nbsp; CL/CD Continuous Learner / Continuous Developer.
+- 📚 &nbsp; Learning Full-Stack technologies, Database, Cloud Architecture, AI 🤖&nbsp;.
+- 🔭 &nbsp; Exploring new technologies and automating processes, boring routine killer 🦾 &nbsp;.
+- 🎓 &nbsp; Professional Bachelor Degree in Electrical Engineering – Computerised Control of Electrical Technologies, Electrical Engineer ⚡&nbsp;.
+- 🚀 &nbsp; I love bringing idea to life, startup thinking.
+- 🏆 &nbsp; Creator, problem solver and goal achivator.
+- 💼 &nbsp; Open for job opportunities and freelance 🔥&nbsp;.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-📚
-Full-Stack Development ⚡ | Open-Source 🔥
-❤️
-✨
+<h2> 📨 &nbsp;Contact Me </h2>
 
-- 💻 Languages: &nbsp;
+<a href="(mailto:ig.pozdnakovs@gmail.com)">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="www.linkedin.com/in/thereigo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<h2> 🛠 &nbsp;Tech Stack</h2>
+
+- 👾 Languages: &nbsp;
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +28,7 @@ Full-Stack Development ⚡ | Open-Source 🔥
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   -->
   
-- 🐍 Python: &nbsp;
+- 🐍 Python Frameworks & Libraries: &nbsp;
   
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -61,7 +43,7 @@ Full-Stack Development ⚡ | Open-Source 🔥
   ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
   -->
   
-- ✨ Javascript: &nbsp;
+- ✨ Javascript Frameworks: &nbsp;
 
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -121,7 +103,7 @@ Full-Stack Development ⚡ | Open-Source 🔥
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- 💻 Current OS: &nbsp;
+- 💻 Current work OS: &nbsp;
   
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -134,7 +116,10 @@ Full-Stack Development ⚡ | Open-Source 🔥
 - 🎓 Education: &nbsp;
 
   ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-  
+  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
   
 <br/>
