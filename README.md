@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Professional Bachelor Degree in Electrical Engineering – Computerised Control of Electrical Technologies, Electrical Engineer⚡&nbsp;
 - 🚀 &nbsp; I love bringing idea to life, startup thinking.
 - 🏆 &nbsp; Creator, problem solver and goal achivator.
-- 💼 &nbsp; Open for job opportunities and freelance 🔥&nbsp;.
+- 💼 &nbsp; Open for job opportunities and freelance 🔥&nbsp;
 
 <h2> 📨 &nbsp;Contact Me </h2>
 
