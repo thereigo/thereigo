@@ -6,7 +6,7 @@
 - 🧬 &nbsp; CL/CD Continuous Learner / Continuous Developer.
 - 📚 &nbsp; Learning Full-Stack technologies, Database, Cloud Architecture, AI 🤖&nbsp;.
 - 🔭 &nbsp; Exploring new technologies and automating processes, boring routine killer 🦾 &nbsp;.
-- 🎓 &nbsp; Professional Bachelor Degree in Electrical Engineering – Computerised Control of Electrical Technologies, Electrical Engineer ⚡&nbsp;.
+- 🎓 &nbsp; Professional Bachelor Degree in Electrical Engineering – Computerised Control of Electrical Technologies, Electrical Engineer⚡&nbsp;
 - 🚀 &nbsp; I love bringing idea to life, startup thinking.
 - 🏆 &nbsp; Creator, problem solver and goal achivator.
 - 💼 &nbsp; Open for job opportunities and freelance 🔥&nbsp;.
